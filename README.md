@@ -10,3 +10,5 @@ This repository contains all of the notes taken by [Odelia](https://github.com/O
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
   * [Day 2](/Week_1_Day_2)
+  * [Day 3] (/Users/odeliafinkelstein/lighthouse/lighthouse-web-notes/Week_1_Day_3.md)
+  
